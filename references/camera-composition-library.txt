@@ -1,0 +1,77 @@
+构图镜头资产库（AI短剧 / Krea2 生图通用）
+
+使用说明：当用户输入中文景别、镜头角度或构图法则时，选择对应英文提示词，拼接在主体 Prompt 前，用于控制画面景别、视角与构图。最终 Prompt 只输出英文，不输出中文资产原文。
+
+一、基础景别系列
+
+1. 大全景 / 远景
+适用场景：交代场景全貌、开篇环境铺垫、展现宏大空间
+英文：extreme wide shot, long shot, full body visible, environment-dominant frame, complete spatial atmosphere, cinematic realism, deep depth of field
+
+2. 全景
+适用场景：人物全身 + 环境结合、剧情场景交代、动作场面展示
+英文：wide shot, full body visible, balanced character and environment ratio, complete background information, strong atmosphere, cinematic realism, natural depth of field
+
+3. 中全景
+适用场景：人物膝盖以上、叙事性场景、空间与人物平衡
+英文：medium wide shot, knee-up framing, clear environment, strong spatial depth, balanced character action and setting, cinematic narrative frame
+
+4. 中景
+适用场景：人物腰部以上、对话场景、动作与情绪兼顾
+英文：medium shot, waist-up framing, balanced composition, moderate environment visibility, character and background harmony, cinematic narrative mood, natural depth of field
+
+5. 中近景
+适用场景：人物腰部以上、突出表情状态、近距对话
+英文：medium close-up, waist-up framing, expressive facial state, softly blurred environment, cinematic mood, shallow depth of field
+
+6. 近景 / 胸部以上
+适用场景：人物胸部以上、强化情绪表达、突出人物
+英文：close-up shot, chest-up framing, natural expression, focused emotional performance, soft lighting, clean background, cinematic shallow depth of field
+
+7. 半身 / 腰上
+适用场景：人物上半身、动作 + 情绪结合、转身回头等动作
+英文：half-body shot, waist-up composition, complete upper body visible, balanced gesture and expression, cinematic natural depth of field
+
+8. 特写
+适用场景：人物头部肩部以上、强化情绪冲击、高光时刻
+英文：close-up portrait, head and shoulders framing, sharp focus on facial expression, delicate emotion, expressive eyes, soft light, blurred background, cinematic shallow depth of field
+
+9. 大特写
+适用场景：局部细节放大、眼神 / 手部细节、极致情绪张力
+英文：extreme close-up, key detail filling the frame, crisp detail, intense gaze or important object detail, heightened emotional tension, cinematic shallow depth of field
+
+10. 侧脸 / 侧影
+适用场景：侧面轮廓塑造、情绪铺垫、氛围感营造
+英文：profile shot, side-view angle, character shown from the side, elegant silhouette, soft light and shadow, layered atmosphere, cinematic depth
+
+二、拍摄角度系列
+
+1. 仰视构图 / 低角度仰拍
+适用场景：强化人物气场、表现权威坚定、凸显压迫感
+英文：low angle shot, low vantage point, camera looking upward, taller and more powerful character presence, strong authority and pressure, cinematic drama
+
+2. 俯视构图 / 高角度俯拍
+适用场景：营造压迫感、孤独感、弱势感、上帝视角叙事
+英文：high angle shot, high vantage point, camera looking downward, smaller character scale, oppressive lonely or vulnerable mood, strong spatial tension, cinematic drama
+
+3. 平视角
+适用场景：日常叙事、对话场景、自然真实感
+英文：eye-level shot, camera aligned with the character's eye line, natural realistic viewpoint, grounded narrative feeling, cinematic natural depth of field
+
+三、构图法则系列
+
+1. 三分法构图
+适用场景：画面平衡、经典人像、引导视线聚焦
+英文：rule-of-thirds composition, character placed near the third-line intersection, balanced comfortable frame, natural negative space, viewer attention guided to the subject, cinematic composition
+
+2. 居中构图 / 对称构图
+适用场景：仪式感、庄重感、稳定平衡、对称场景
+英文：centered symmetrical composition, character placed in the exact center, left-right balance, formal ritual feeling, solemn sacred atmosphere, cinematic composition
+
+3. 引导线构图
+适用场景：增强纵深感、引导视线聚焦主体、延伸空间
+英文：leading lines composition, roads rails corridors light beams or architectural lines guiding attention toward the subject, enhanced depth and spatial layering, cinematic composition
+
+4. 框架构图
+适用场景：突出主体、增强层次感、画框式叙事感
+英文：foreground framing, framed composition through doors windows arches railings or foreground objects, subject enclosed by the frame, stronger depth and story focus, cinematic composition
